@@ -1,0 +1,9 @@
+.colorsContainer{
+  display: flex;
+
+}
+.colorTile{
+  flex: 1;
+  height: 5vw;
+  margin: 0 auto;
+}
